@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4764bb2f55d614744bf84fbc5eedeb87, type: 3}
+  m_Name: mareVermelha
+  m_EditorClassIdentifier: 
+  keyWord: "Mar\xE9 Vermelha"
+  dicas:
+  - "F\xE1z com que regi\xF5es no mar fiquem com colora\xE7\xE3o vermelha."
+  - "Est\xE1 relacionada a prolifera\xE7\xE3o de algas unicelulares."
+  - "consequ\xEAncia do desequil\xEDbrio do ecossistema marinho."
+  - "Um dos fatores causadores \xE9 a oscila\xE7\xE3o da temperatura da \xE1gua do
+    mar."
+  - "Intoxica\xE7\xE3o do mar."

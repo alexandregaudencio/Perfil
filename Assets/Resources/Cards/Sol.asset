@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4764bb2f55d614744bf84fbc5eedeb87, type: 3}
+  m_Name: Sol
+  m_EditorClassIdentifier: 
+  keyWord: Sol
+  dicas:
+  - "Fonte prim\xE1ria de energia no planeta Terra."
+  - "Formado majorit\xE1riamente de Hidrog\xEAnio e H\xE9lio."
+  - "Temperatura na superf\xEDcie: 5700 K."
+  - Estrela central do sistema solar.
+  - "Fator importante para a fotoss\xEDntese."

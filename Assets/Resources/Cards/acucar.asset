@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4764bb2f55d614744bf84fbc5eedeb87, type: 3}
+  m_Name: acucar
+  m_EditorClassIdentifier: 
+  keyWord: "A\xE7\xFAcar"
+  dicas:
+  - "Sua ingest\xE3o em excesso causa diabetes."
+  - "Composto org\xE2nico cristalino.  "
+  - 'Gosto doce.  '
+  - Serve para cristalizar alguns alimentos.
+  - "Glicose, frutose e sacarose s\xE3o exemplos."
